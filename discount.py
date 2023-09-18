@@ -1,6 +1,6 @@
 itemsCount = eval(input('Type the amount of items :'))
 price = 10
-discount = 0
+discount = 1
 
 if itemsCount >= 20:
     discount = 1.2
